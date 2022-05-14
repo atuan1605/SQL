@@ -69,4 +69,4 @@ CREATE TABLE comment(
 )
 ```
 
-![image](data.png)
+![image](image/data.png)
